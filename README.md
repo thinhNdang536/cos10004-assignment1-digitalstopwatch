@@ -1,6 +1,6 @@
 # ⏱️ COS10004 Assignment 1 - Digital Stopwatch Guide 🚀
 
-Welcome to the guide for **COS10004 - Computer Systems Assignment 1**! 🎉🎓
+Welcome to the guide for **COS10004 - Computer Systems Assignment 1**! 🎓
 
 In this repository, I've shared a step-by-step guide to help you work through the process of building a digital stopwatch using Logisim Evolution. This guide will provide an overview of the key concepts and design stages I followed to complete the assignment. 💻💡
 
