@@ -1,8 +1,6 @@
-# ⏱️ COS10004 Assignment 1 – Digital Stopwatch (Student Guide) 🚀
+# ⏱️ COS10004 Assignment 1 – Digital Stopwatch (Demo Guide) 🚀
 
-Welcome! This guide is designed to help students of **COS10004 - Computer Systems** navigate through **Assignment 1**, which focuses on building a **digital stopwatch using Logisim Evolution**. 🎓💡
-
-This document outlines the major concepts and development steps involved in creating the project. Whether you're just getting started or looking to understand each part more deeply, this guide is here to support your learning journey. 🛠️📘
+Welcome! This guide demonstrates a working solution for **Assignment 1** of **COS10004 - Computer Systems** at **Swinburne University of Technology**. The project involves building a **digital stopwatch** using **Logisim Evolution**. 🎓💡
 
 ---
 
@@ -15,63 +13,44 @@ This document outlines the major concepts and development steps involved in crea
 
 ---
 
-## 🧩 What You’ll Find in This Guide
-
-This walkthrough covers all essential parts of the design process:
-
-- ⏯️ Implementing **start/stop control** for the stopwatch  
-- ⏱️ Building a **second counter with a working display**  
-- 🏁 Adding functionality for **split time recording**  
-- 📟 Managing and showing **multiple split times** on a unified display  
-
----
-
 ## 📹 Video Demonstration
 
-Want to see the stopwatch in action? Check out the demo video below:
+Curious how the stopwatch works? Check out the demo video below:
 
 🔗 [Watch Demo Video](https://your-video-link.com)
 
-> *Note: Make sure you're logged into your student account if access is restricted.*
+> *Note: Video shows stopwatch running in Logisim Evolution, with working start/stop, split time, and display logic.*
 
 ---
 
-## 🔒 Note:
-The full solution, including project files, is **not publicly available** to maintain compliance with academic policies.
+## 🧩 Key Features Demonstrated
+
+- ⏯️ Start/Stop Control  
+- ⏱️ Second Counter with Display  
+- 🏁 Split Time Functionality  
+- 📟 Unified Display for Split and Main Time  
 
 ---
 
-## 💬 How to Learn More
+## 🛠️ Tools Used
 
-If you’re looking to learn more about the approach used or need help understanding the logic:
-
-**Message Me on Discord**  
-📨 Discord Handle: `oops#0536`
-
-**Provide Your Student Info**  
-To maintain academic integrity, please share:
-- Full name  
-- Student ID  
-- Course details
-
-✅ Once verified, you may receive access to my personal approach for educational reference.
+- **Logisim Evolution** (latest stable version)  
+- **Basic logic gates**, **counters**, **multiplexers**, and **7-segment display circuits**
 
 ---
 
-## ⚠️ Academic Integrity Notice
+## ⚠️ Disclaimer
 
-This guide is intended **purely for educational and learning support**.  
-All students are expected to follow Swinburne’s academic integrity rules and use any shared resources **responsibly**.
+This demo is provided **for educational viewing only** and **does not include** project files or circuit schematics.  
+All content complies with academic integrity standards. Please use it as inspiration and guidance for your own work.
 
 ---
 
 ## 📄 License
 
-This guide is shared under the **MIT License**, allowing reuse with proper credit. 📜
+Shared under the **MIT License** — reuse permitted with credit. 📜
 
 ---
 
-**Wishing you all the best with your project! 🌟**  
-If you have questions, feel free to connect via Discord — happy to help! 🙌
-
-> *Disclaimer: This educational content is shared for learning purposes only. Always ensure your work complies with your university’s academic conduct policies.* ⚖️
+**Good luck with your project!** 🌟  
+If you'd like to learn more about building digital systems in Logisim, there are plenty of great tutorials and documentation available online!
