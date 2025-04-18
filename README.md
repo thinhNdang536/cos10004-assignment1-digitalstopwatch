@@ -1,4 +1,4 @@
-# ⏱️ COS10004 Assignment 1 – Digital Stopwatch (Demo Guide) 🚀
+# ⏱️ COS10004 Assignment 1 – Digital Stopwatch (Demo Only) 🚀
 
 Welcome! This guide demonstrates a working solution for **Assignment 1** of **COS10004 - Computer Systems** at **Swinburne University of Technology**. The project involves building a **digital stopwatch** using **Logisim Evolution**. 🎓💡
 
@@ -34,7 +34,7 @@ Curious how the stopwatch works? Check out the demo video below:
 
 ## 🛠️ Tools Used
 
-- **Logisim Evolution** (latest stable version)  
+- **Logisim Evolution** (3.8.0)  
 - **Basic logic gates**, **counters**, **multiplexers**, and **7-segment display circuits**
 
 ---
