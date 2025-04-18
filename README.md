@@ -39,10 +39,30 @@ Curious how the stopwatch works? Check out the demo video below:
 
 ---
 
+## 💬 How to Learn More
+
+If you’re looking to understand the design logic or want guidance on how to build similar components:
+
+**Message Me on Discord**  
+📨 Discord Handle: `oops#0536`
+
+> **Important:** I do **not** share the complete project files. I only provide guidance and insights based on my personal approach.
+
+To maintain academic integrity, please share:
+- Full name  
+- Student ID  
+- Course details
+
+✅ Once verified, I’ll be happy to discuss my approach and help you learn!
+
+---
+
 ## ⚠️ Disclaimer
 
-This demo is provided **for educational viewing only** and **does not include** project files or circuit schematics.  
-All content complies with academic integrity standards. Please use it as inspiration and guidance for your own work.
+This demo is provided **for educational viewing only**.  
+Please note that **project files and full circuit schematics are not shared** to maintain academic integrity.
+
+🔍 However, I’m happy to **guide you through the approach I used**, explain the design logic, and answer conceptual questions to help you develop your own solution.
 
 ---
 
