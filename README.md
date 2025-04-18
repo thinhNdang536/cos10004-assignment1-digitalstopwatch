@@ -1,56 +1,67 @@
-# ⏱️ COS10004 Assignment 1 - Digital Stopwatch Guide 🚀
+# ⏱️ COS10004 Assignment 1 – Digital Stopwatch (Student Guide) 🚀
 
-Welcome to the guide for **COS10004 - Computer Systems Assignment 1**! 🎓
+Welcome! This guide is designed to help students of **COS10004 - Computer Systems** navigate through **Assignment 1**, which focuses on building a **digital stopwatch using Logisim Evolution**. 🎓💡
 
-In this repository, I've shared a step-by-step guide to help you work through the process of building a digital stopwatch using Logisim Evolution. This guide will provide an overview of the key concepts and design stages I followed to complete the assignment. 💻💡
-
-## 📚 About the Assignment
-
-**Assignment Title**: Digital Stopwatch  
-**Course**: COS10004 - Computer Systems  
-**University**: Swinburne University of Technology  
-**Year**: 2024 📅  
-**Grade**: 98.4/100 🎯✨
-
-### 📝 What’s Included in the Guide
-
-This repository includes a breakdown of the assignment and a detailed explanation of the stages I followed:
-
-- Designing and implementing the **start/stop functionality**. 🔘
-- Creating a **counter for seconds** and handling display. ⏲️
-- Implementing **split time recording** and display. 🏁
-- Managing multiple split times and the **unified display** for the stopwatch. 📊
-
-### 🔑 Solution Access
-
-Due to certain reasons, the complete solution for this assignment is not included here. If you're a Swinburne University student and would like access to the full solution, please follow these steps:
-
-## 📬 How to Get Access
-
-1. **Contact Me on Discord**:  
-   Reach out to me directly via Discord for access to the solution.  
-   - **Discord**: [oops#0536](https://discord.com/users/oops0536) 💬
-
-2. **Provide Your Details**:  
-   Please include your full name, student ID, and course details in your message so I can verify your eligibility. 🆔
-
-3. **Receive Access**:  
-   After I verify your details, I'll share the solution with you. 🚪
-
-### ⚠️ Important Notes
-
-- Make sure you follow **Swinburne’s academic guidelines** and use the provided solution responsibly. 📑
-- This guide is designed to help you understand the steps and concepts required to complete the assignment. The solution should be used as a reference for your learning process. 📘
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+This document outlines the major concepts and development steps involved in creating the project. Whether you're just getting started or looking to understand each part more deeply, this guide is here to support your learning journey. 🛠️📘
 
 ---
 
-Good luck with your assignment! 🌟  
-If you have any questions, feel free to reach out on Discord, and I’ll be happy to help! 🙌
+## 📚 Assignment Overview
+
+- **Project Title:** Digital Stopwatch  
+- **Subject:** COS10004 - Computer Systems  
+- **Institution:** Swinburne University of Technology  
+- **Year:** 2024
 
 ---
 
-*Disclaimer*: This solution is provided for educational purposes only. Please ensure that you understand and follow the academic integrity policies of your course. ⚖️
+## 🧩 What You’ll Find in This Guide
+
+This walkthrough covers all essential parts of the design process:
+
+- ⏯️ Implementing **start/stop control** for the stopwatch  
+- ⏱️ Building a **second counter with a working display**  
+- 🏁 Adding functionality for **split time recording**  
+- 📟 Managing and showing **multiple split times** on a unified display  
+
+---
+
+## 🔒 Note:
+The full solution, including project files, is **not publicly available** to maintain compliance with academic policies.
+
+---
+
+## 💬 How to Learn More
+
+If you’re looking to learn more about the approach used or need help understanding the logic:
+
+**Message Me on Discord**  
+📨 Discord Handle: `oops#0536`
+
+**Provide Your Student Info**  
+To maintain academic integrity, please share:
+- Full name  
+- Student ID  
+- Course details
+
+✅ Once verified, you may receive access to my personal approach for educational reference.
+
+---
+
+## ⚠️ Academic Integrity Notice
+
+This guide is intended **purely for educational and learning support**.  
+All students are expected to follow Swinburne’s academic integrity rules and use any shared resources **responsibly**.
+
+---
+
+## 📄 License
+
+This guide is shared under the **MIT License**, allowing reuse with proper credit. 📜
+
+---
+
+**Wishing you all the best with your project! 🌟**  
+If you have questions, feel free to connect via Discord — happy to help! 🙌
+
+> *Disclaimer: This educational content is shared for learning purposes only. Always ensure your work complies with your university’s academic conduct policies.* ⚖️
