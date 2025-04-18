@@ -11,7 +11,7 @@ This document outlines the major concepts and development steps involved in crea
 - **Project Title:** Digital Stopwatch  
 - **Subject:** COS10004 - Computer Systems  
 - **Institution:** Swinburne University of Technology  
-- **Year:** 2024
+- **Year:** 2024  
 
 ---
 
@@ -23,6 +23,16 @@ This walkthrough covers all essential parts of the design process:
 - ⏱️ Building a **second counter with a working display**  
 - 🏁 Adding functionality for **split time recording**  
 - 📟 Managing and showing **multiple split times** on a unified display  
+
+---
+
+## 📹 Video Demonstration
+
+Want to see the stopwatch in action? Check out the demo video below:
+
+🔗 [Watch Demo Video](https://your-video-link.com)
+
+> *Note: Make sure you're logged into your student account if access is restricted.*
 
 ---
 
