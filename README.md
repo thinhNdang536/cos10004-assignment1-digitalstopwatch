@@ -47,7 +47,7 @@ To maintain academic integrity, please share:
 
 ## 🧠 Reference Circuits
 You can explore the basic logic circuits, which maybe helpful for the your assignment here.
-🔗 [digital-logic-circuits](https://github.com/thinhNdang0536/digital-logic-circuits)
+🔗 [digital-logic-circuits](https://github.com/thinhNdang536/digital-logic-circuits)
 
 > 👌 Includes flip-flops, counters, decoders, control logic, and more — all built in Logisim Evolution.
 
